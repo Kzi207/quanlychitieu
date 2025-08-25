@@ -219,8 +219,8 @@ Dự án này được phát hành dưới giấy phép MIT. Xem file `LICENSE` 
 
 ## 📞 Liên Hệ & Hỗ Trợ
 
-- **Email**: support@quanlychitieu.com
-- **Website**: https://quanlychitieu.com
+- **Email**:
+- **Website**: 
 - **GitHub**: https://github.com/username/quanlychitieu
 
 ## 🙏 Lời Cảm Ơn
